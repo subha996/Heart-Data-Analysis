@@ -22,5 +22,11 @@ features and come out with significant contributors to a heart disease.
 
 
 
+<h1 align="center">⏳ Dataset</h1>
 
+The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
+
+<h1 align="center">🖥️ Installation</h1>
+    ``` Python
+    Tableau```
 
