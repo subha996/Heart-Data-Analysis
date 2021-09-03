@@ -1,0 +1,297 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Male,asymtomatic,145,233,True,0,150,No,2.3,upsloping,0,fixed_defect,Disease
+37,Male,non-anginal pain,130,250,False,1,187,No,3.5,upsloping,0,reversable_defect,Disease
+41,Female,atypical_angina,130,204,False,0,172,No,1.4,downsloping,0,reversable_defect,Disease
+56,Male,atypical_angina,120,236,False,1,178,No,0.8,downsloping,0,reversable_defect,Disease
+57,Female,typical_angina,120,354,False,1,163,Yes,0.6,downsloping,0,reversable_defect,Disease
+57,Male,typical_angina,140,192,False,1,148,No,0.4,flat,0,fixed_defect,Disease
+56,Female,atypical_angina,140,294,False,0,153,No,1.3,flat,0,reversable_defect,Disease
+44,Male,atypical_angina,120,263,False,1,173,No,0.0,downsloping,0,normal,Disease
+52,Male,non-anginal pain,172,199,True,1,162,No,0.5,downsloping,0,normal,Disease
+57,Male,non-anginal pain,150,168,False,1,174,No,1.6,downsloping,0,reversable_defect,Disease
+54,Male,typical_angina,140,239,False,1,160,No,1.2,downsloping,0,reversable_defect,Disease
+48,Female,non-anginal pain,130,275,False,1,139,No,0.2,downsloping,0,reversable_defect,Disease
+49,Male,atypical_angina,130,266,False,1,171,No,0.6,downsloping,0,reversable_defect,Disease
+64,Male,asymtomatic,110,211,False,0,144,Yes,1.8,flat,0,reversable_defect,Disease
+58,Female,asymtomatic,150,283,True,0,162,No,1.0,downsloping,0,reversable_defect,Disease
+50,Female,non-anginal pain,120,219,False,1,158,No,1.6,flat,0,reversable_defect,Disease
+58,Female,non-anginal pain,120,340,False,1,172,No,0.0,downsloping,0,reversable_defect,Disease
+66,Female,asymtomatic,150,226,False,1,114,No,2.6,upsloping,0,reversable_defect,Disease
+43,Male,typical_angina,150,247,False,1,171,No,1.5,downsloping,0,reversable_defect,Disease
+69,Female,asymtomatic,140,239,False,1,151,No,1.8,downsloping,2,reversable_defect,Disease
+59,Male,typical_angina,135,234,False,1,161,No,0.5,flat,0,normal,Disease
+44,Male,non-anginal pain,130,233,False,1,179,Yes,0.4,downsloping,0,reversable_defect,Disease
+42,Male,typical_angina,140,226,False,1,178,No,0.0,downsloping,0,reversable_defect,Disease
+61,Male,non-anginal pain,150,243,True,1,137,Yes,1.0,flat,0,reversable_defect,Disease
+40,Male,asymtomatic,140,199,False,1,178,Yes,1.4,downsloping,0,normal,Disease
+71,Female,atypical_angina,160,302,False,1,162,No,0.4,downsloping,2,reversable_defect,Disease
+59,Male,non-anginal pain,150,212,True,1,157,No,1.6,downsloping,0,reversable_defect,Disease
+51,Male,non-anginal pain,110,175,False,1,123,No,0.6,downsloping,0,reversable_defect,Disease
+65,Female,non-anginal pain,140,417,True,0,157,No,0.8,downsloping,1,reversable_defect,Disease
+53,Male,non-anginal pain,130,197,True,0,152,No,1.2,upsloping,0,reversable_defect,Disease
+41,Female,atypical_angina,105,198,False,1,168,No,0.0,downsloping,1,reversable_defect,Disease
+65,Male,typical_angina,120,177,False,1,140,No,0.4,downsloping,0,normal,Disease
+44,Male,atypical_angina,130,219,False,0,188,No,0.0,downsloping,0,reversable_defect,Disease
+54,Male,non-anginal pain,125,273,False,0,152,No,0.5,upsloping,1,reversable_defect,Disease
+51,Male,asymtomatic,125,213,False,0,125,Yes,1.4,downsloping,1,reversable_defect,Disease
+46,Female,non-anginal pain,142,177,False,0,160,Yes,1.4,upsloping,0,reversable_defect,Disease
+54,Female,non-anginal pain,135,304,True,1,170,No,0.0,downsloping,0,reversable_defect,Disease
+54,Male,non-anginal pain,150,232,False,0,165,No,1.6,downsloping,0,normal,Disease
+65,Female,non-anginal pain,155,269,False,1,148,No,0.8,downsloping,0,reversable_defect,Disease
+65,Female,non-anginal pain,160,360,False,0,151,No,0.8,downsloping,0,reversable_defect,Disease
+51,Female,non-anginal pain,140,308,False,0,142,No,1.5,downsloping,1,reversable_defect,Disease
+48,Male,atypical_angina,130,245,False,0,180,No,0.2,flat,0,reversable_defect,Disease
+45,Male,typical_angina,104,208,False,0,148,Yes,3.0,flat,0,reversable_defect,Disease
+53,Female,typical_angina,130,264,False,0,143,No,0.4,flat,0,reversable_defect,Disease
+39,Male,non-anginal pain,140,321,False,0,182,No,0.0,downsloping,0,reversable_defect,Disease
+52,Male,atypical_angina,120,325,False,1,172,No,0.2,downsloping,0,reversable_defect,Disease
+44,Male,non-anginal pain,140,235,False,0,180,No,0.0,downsloping,0,reversable_defect,Disease
+47,Male,non-anginal pain,138,257,False,0,156,No,0.0,downsloping,0,reversable_defect,Disease
+53,Female,typical_angina,138,234,False,0,160,No,0.0,downsloping,0,reversable_defect,Disease
+51,Female,non-anginal pain,130,256,False,0,149,No,0.5,downsloping,0,reversable_defect,Disease
+66,Male,typical_angina,120,302,False,0,151,No,0.4,flat,0,reversable_defect,Disease
+62,Male,non-anginal pain,130,231,False,1,146,No,1.8,flat,3,normal,Disease
+44,Female,non-anginal pain,108,141,False,1,175,No,0.6,flat,0,reversable_defect,Disease
+63,Female,non-anginal pain,135,252,False,0,172,No,0.0,downsloping,0,reversable_defect,Disease
+52,Male,atypical_angina,134,201,False,1,158,No,0.8,downsloping,1,reversable_defect,Disease
+48,Male,typical_angina,122,222,False,0,186,No,0.0,downsloping,0,reversable_defect,Disease
+45,Male,typical_angina,115,260,False,0,185,No,0.0,downsloping,0,reversable_defect,Disease
+34,Male,asymtomatic,118,182,False,0,174,No,0.0,downsloping,0,reversable_defect,Disease
+57,Female,typical_angina,128,303,False,0,159,No,0.0,downsloping,1,reversable_defect,Disease
+71,Female,non-anginal pain,110,265,True,0,130,No,0.0,downsloping,1,reversable_defect,Disease
+54,Male,atypical_angina,108,309,False,1,156,No,0.0,downsloping,0,normal,Disease
+52,Male,asymtomatic,118,186,False,0,190,No,0.0,flat,0,fixed_defect,Disease
+41,Male,atypical_angina,135,203,False,1,132,No,0.0,flat,0,fixed_defect,Disease
+58,Male,non-anginal pain,140,211,True,0,165,No,0.0,downsloping,0,reversable_defect,Disease
+35,Female,typical_angina,138,183,False,1,182,No,1.4,downsloping,0,reversable_defect,Disease
+51,Male,non-anginal pain,100,222,False,1,143,Yes,1.2,flat,0,reversable_defect,Disease
+45,Female,atypical_angina,130,234,False,0,175,No,0.6,flat,0,reversable_defect,Disease
+44,Male,atypical_angina,120,220,False,1,170,No,0.0,downsloping,0,reversable_defect,Disease
+62,Female,typical_angina,124,209,False,1,163,No,0.0,downsloping,0,reversable_defect,Disease
+54,Male,non-anginal pain,120,258,False,0,147,No,0.4,flat,0,normal,Disease
+51,Male,non-anginal pain,94,227,False,1,154,Yes,0.0,downsloping,1,normal,Disease
+29,Male,atypical_angina,130,204,False,0,202,No,0.0,downsloping,0,reversable_defect,Disease
+51,Male,typical_angina,140,261,False,0,186,Yes,0.0,downsloping,0,reversable_defect,Disease
+43,Female,non-anginal pain,122,213,False,1,165,No,0.2,flat,0,reversable_defect,Disease
+55,Female,atypical_angina,135,250,False,0,161,No,1.4,flat,0,reversable_defect,Disease
+51,Male,non-anginal pain,125,245,True,0,166,No,2.4,flat,0,reversable_defect,Disease
+59,Male,atypical_angina,140,221,False,1,164,Yes,0.0,downsloping,0,reversable_defect,Disease
+52,Male,atypical_angina,128,205,True,1,184,No,0.0,downsloping,0,reversable_defect,Disease
+58,Male,non-anginal pain,105,240,False,0,154,Yes,0.6,flat,0,normal,Disease
+41,Male,non-anginal pain,112,250,False,1,179,No,0.0,downsloping,0,reversable_defect,Disease
+45,Male,atypical_angina,128,308,False,0,170,No,0.0,downsloping,0,reversable_defect,Disease
+60,Female,non-anginal pain,102,318,False,1,160,No,0.0,downsloping,1,reversable_defect,Disease
+52,Male,asymtomatic,152,298,True,1,178,No,1.2,flat,0,normal,Disease
+42,Female,typical_angina,102,265,False,0,122,No,0.6,flat,0,reversable_defect,Disease
+67,Female,non-anginal pain,115,564,False,0,160,No,1.6,flat,0,normal,Disease
+68,Male,non-anginal pain,118,277,False,1,151,No,1.0,downsloping,1,normal,Disease
+46,Male,atypical_angina,101,197,True,1,156,No,0.0,downsloping,0,normal,Disease
+54,Female,non-anginal pain,110,214,False,1,158,No,1.6,flat,0,reversable_defect,Disease
+58,Female,typical_angina,100,248,False,0,122,No,1.0,flat,0,reversable_defect,Disease
+48,Male,non-anginal pain,124,255,True,1,175,No,0.0,downsloping,2,reversable_defect,Disease
+57,Male,typical_angina,132,207,False,1,168,Yes,0.0,downsloping,0,normal,Disease
+54,Female,atypical_angina,132,288,True,0,159,Yes,0.0,downsloping,1,reversable_defect,Disease
+45,Female,atypical_angina,112,160,False,1,138,No,0.0,flat,0,reversable_defect,Disease
+53,Male,typical_angina,142,226,False,0,111,Yes,0.0,downsloping,0,normal,Disease
+62,Female,typical_angina,140,394,False,0,157,No,1.2,flat,0,reversable_defect,Disease
+52,Male,typical_angina,108,233,True,1,147,No,0.1,downsloping,3,normal,Disease
+43,Male,non-anginal pain,130,315,False,1,162,No,1.9,downsloping,1,reversable_defect,Disease
+53,Male,non-anginal pain,130,246,True,0,173,No,0.0,downsloping,3,reversable_defect,Disease
+42,Male,asymtomatic,148,244,False,0,178,No,0.8,downsloping,2,reversable_defect,Disease
+59,Male,asymtomatic,178,270,False,0,145,No,4.2,upsloping,0,normal,Disease
+63,Female,atypical_angina,140,195,False,1,179,No,0.0,downsloping,2,reversable_defect,Disease
+42,Male,non-anginal pain,120,240,True,1,194,No,0.8,upsloping,0,normal,Disease
+50,Male,non-anginal pain,129,196,False,1,163,No,0.0,downsloping,0,reversable_defect,Disease
+68,Female,non-anginal pain,120,211,False,0,115,No,1.5,flat,0,reversable_defect,Disease
+69,Male,asymtomatic,160,234,True,0,131,No,0.1,flat,1,reversable_defect,Disease
+45,Female,typical_angina,138,236,False,0,152,Yes,0.2,flat,0,reversable_defect,Disease
+50,Female,atypical_angina,120,244,False,1,162,No,1.1,downsloping,0,reversable_defect,Disease
+50,Female,typical_angina,110,254,False,0,159,No,0.0,downsloping,0,reversable_defect,Disease
+64,Female,typical_angina,180,325,False,1,154,Yes,0.0,downsloping,0,reversable_defect,Disease
+57,Male,non-anginal pain,150,126,True,1,173,No,0.2,downsloping,1,normal,Disease
+64,Female,non-anginal pain,140,313,False,1,133,No,0.2,downsloping,0,normal,Disease
+43,Male,typical_angina,110,211,False,1,161,No,0.0,downsloping,0,normal,Disease
+55,Male,atypical_angina,130,262,False,1,155,No,0.0,downsloping,0,reversable_defect,Disease
+37,Female,non-anginal pain,120,215,False,1,170,No,0.0,downsloping,0,reversable_defect,Disease
+41,Male,non-anginal pain,130,214,False,0,168,No,2.0,flat,0,reversable_defect,Disease
+56,Male,asymtomatic,120,193,False,0,162,No,1.9,flat,0,normal,Disease
+46,Female,atypical_angina,105,204,False,1,172,No,0.0,downsloping,0,reversable_defect,Disease
+46,Female,typical_angina,138,243,False,0,152,Yes,0.0,flat,0,reversable_defect,Disease
+64,Female,typical_angina,130,303,False,1,122,No,2.0,flat,2,reversable_defect,Disease
+59,Male,typical_angina,138,271,False,0,182,No,0.0,downsloping,0,reversable_defect,Disease
+41,Female,non-anginal pain,112,268,False,0,172,Yes,0.0,downsloping,0,reversable_defect,Disease
+54,Female,non-anginal pain,108,267,False,0,167,No,0.0,downsloping,0,reversable_defect,Disease
+39,Female,non-anginal pain,94,199,False,1,179,No,0.0,downsloping,0,reversable_defect,Disease
+34,Female,atypical_angina,118,210,False,1,192,No,0.7,downsloping,0,reversable_defect,Disease
+47,Male,typical_angina,112,204,False,1,143,No,0.1,downsloping,0,reversable_defect,Disease
+67,Female,non-anginal pain,152,277,False,1,172,No,0.0,downsloping,1,reversable_defect,Disease
+52,Female,non-anginal pain,136,196,False,0,169,No,0.1,flat,0,reversable_defect,Disease
+74,Female,atypical_angina,120,269,False,0,121,Yes,0.2,downsloping,1,reversable_defect,Disease
+54,Female,non-anginal pain,160,201,False,1,163,No,0.0,downsloping,1,reversable_defect,Disease
+49,Female,atypical_angina,134,271,False,1,162,No,0.0,flat,0,reversable_defect,Disease
+42,Male,atypical_angina,120,295,False,1,162,No,0.0,downsloping,0,reversable_defect,Disease
+41,Male,atypical_angina,110,235,False,1,153,No,0.0,downsloping,0,reversable_defect,Disease
+41,Female,atypical_angina,126,306,False,1,163,No,0.0,downsloping,0,reversable_defect,Disease
+49,Female,typical_angina,130,269,False,1,163,No,0.0,downsloping,0,reversable_defect,Disease
+60,Female,non-anginal pain,120,178,True,1,96,No,0.0,downsloping,0,reversable_defect,Disease
+62,Male,atypical_angina,128,208,True,0,140,No,0.0,downsloping,0,reversable_defect,Disease
+57,Male,typical_angina,110,201,False,1,126,Yes,1.5,flat,0,fixed_defect,Disease
+64,Male,typical_angina,128,263,False,1,105,Yes,0.2,flat,1,normal,Disease
+51,Female,non-anginal pain,120,295,False,0,157,No,0.6,downsloping,0,reversable_defect,Disease
+43,Male,typical_angina,115,303,False,1,181,No,1.2,flat,0,reversable_defect,Disease
+42,Female,non-anginal pain,120,209,False,1,173,No,0.0,flat,0,reversable_defect,Disease
+67,Female,typical_angina,106,223,False,1,142,No,0.3,downsloping,2,reversable_defect,Disease
+76,Female,non-anginal pain,140,197,False,2,116,No,1.1,flat,0,reversable_defect,Disease
+70,Male,atypical_angina,156,245,False,0,143,No,0.0,downsloping,0,reversable_defect,Disease
+44,Female,non-anginal pain,118,242,False,1,149,No,0.3,flat,1,reversable_defect,Disease
+60,Female,asymtomatic,150,240,False,1,171,No,0.9,downsloping,0,reversable_defect,Disease
+44,Male,non-anginal pain,120,226,False,1,169,No,0.0,downsloping,0,reversable_defect,Disease
+42,Male,non-anginal pain,130,180,False,1,150,No,0.0,downsloping,0,reversable_defect,Disease
+66,Male,typical_angina,160,228,False,0,138,No,2.3,downsloping,0,fixed_defect,Disease
+71,Female,typical_angina,112,149,False,1,125,No,1.6,flat,0,reversable_defect,Disease
+64,Male,asymtomatic,170,227,False,0,155,No,0.6,flat,0,normal,Disease
+66,Female,non-anginal pain,146,278,False,0,152,No,0.0,flat,1,reversable_defect,Disease
+39,Female,non-anginal pain,138,220,False,1,152,No,0.0,flat,0,reversable_defect,Disease
+58,Female,typical_angina,130,197,False,1,131,No,0.6,flat,0,reversable_defect,Disease
+47,Male,non-anginal pain,130,253,False,1,179,No,0.0,downsloping,0,reversable_defect,Disease
+35,Male,atypical_angina,122,192,False,1,174,No,0.0,downsloping,0,reversable_defect,Disease
+56,Male,atypical_angina,130,221,False,0,163,No,0.0,downsloping,0,normal,Disease
+56,Male,atypical_angina,120,240,False,1,169,No,0.0,upsloping,0,reversable_defect,Disease
+55,Female,atypical_angina,132,342,False,1,166,No,1.2,downsloping,0,reversable_defect,Disease
+41,Male,atypical_angina,120,157,False,1,182,No,0.0,downsloping,0,reversable_defect,Disease
+67,Male,typical_angina,160,286,False,0,108,Yes,1.5,flat,3,reversable_defect,No_disease
+67,Male,typical_angina,120,229,False,0,129,Yes,2.6,flat,2,normal,No_disease
+62,Female,typical_angina,140,268,False,0,160,No,3.6,upsloping,2,reversable_defect,No_disease
+63,Male,typical_angina,130,254,False,0,147,No,1.4,flat,1,normal,No_disease
+53,Male,typical_angina,140,203,True,0,155,Yes,3.1,upsloping,0,normal,No_disease
+56,Male,non-anginal pain,130,256,True,0,142,Yes,0.6,flat,1,fixed_defect,No_disease
+48,Male,atypical_angina,110,229,False,1,168,No,1.0,upsloping,0,normal,No_disease
+58,Male,atypical_angina,120,284,False,0,160,No,1.8,flat,0,reversable_defect,No_disease
+58,Male,non-anginal pain,132,224,False,0,173,No,3.2,downsloping,2,normal,No_disease
+60,Male,typical_angina,130,206,False,0,132,Yes,2.4,flat,2,normal,No_disease
+40,Male,typical_angina,110,167,False,0,114,Yes,2.0,flat,0,normal,No_disease
+60,Male,typical_angina,117,230,True,1,160,Yes,1.4,downsloping,2,normal,No_disease
+64,Male,non-anginal pain,140,335,False,1,158,No,0.0,downsloping,0,reversable_defect,No_disease
+43,Male,typical_angina,120,177,False,0,120,Yes,2.5,flat,0,normal,No_disease
+57,Male,typical_angina,150,276,False,0,112,Yes,0.6,flat,1,fixed_defect,No_disease
+55,Male,typical_angina,132,353,False,1,132,Yes,1.2,flat,1,normal,No_disease
+65,Female,typical_angina,150,225,False,0,114,No,1.0,flat,3,normal,No_disease
+61,Female,typical_angina,130,330,False,0,169,No,0.0,downsloping,0,reversable_defect,No_disease
+58,Male,non-anginal pain,112,230,False,0,165,No,2.5,flat,1,normal,No_disease
+50,Male,typical_angina,150,243,False,0,128,No,2.6,flat,0,normal,No_disease
+44,Male,typical_angina,112,290,False,0,153,No,0.0,downsloping,1,reversable_defect,No_disease
+60,Male,typical_angina,130,253,False,1,144,Yes,1.4,downsloping,1,normal,No_disease
+54,Male,typical_angina,124,266,False,0,109,Yes,2.2,flat,1,normal,No_disease
+50,Male,non-anginal pain,140,233,False,1,163,No,0.6,flat,1,normal,No_disease
+41,Male,typical_angina,110,172,False,0,158,No,0.0,downsloping,0,normal,No_disease
+51,Female,typical_angina,130,305,False,1,142,Yes,1.2,flat,0,normal,No_disease
+58,Male,typical_angina,128,216,False,0,131,Yes,2.2,flat,3,normal,No_disease
+54,Male,typical_angina,120,188,False,1,113,No,1.4,flat,1,normal,No_disease
+60,Male,typical_angina,145,282,False,0,142,Yes,2.8,flat,2,normal,No_disease
+60,Male,non-anginal pain,140,185,False,0,155,No,3.0,flat,0,reversable_defect,No_disease
+59,Male,typical_angina,170,326,False,0,140,Yes,3.4,upsloping,0,normal,No_disease
+46,Male,non-anginal pain,150,231,False,1,147,No,3.6,flat,0,reversable_defect,No_disease
+67,Male,typical_angina,125,254,True,1,163,No,0.2,flat,2,normal,No_disease
+62,Male,typical_angina,120,267,False,1,99,Yes,1.8,flat,2,normal,No_disease
+65,Male,typical_angina,110,248,False,0,158,No,0.6,downsloping,2,fixed_defect,No_disease
+44,Male,typical_angina,110,197,False,0,177,No,0.0,downsloping,1,reversable_defect,No_disease
+60,Male,typical_angina,125,258,False,0,141,Yes,2.8,flat,1,normal,No_disease
+58,Male,typical_angina,150,270,False,0,111,Yes,0.8,downsloping,0,normal,No_disease
+68,Male,non-anginal pain,180,274,True,0,150,Yes,1.6,flat,0,normal,No_disease
+62,Female,typical_angina,160,164,False,0,145,No,6.2,upsloping,3,normal,No_disease
+52,Male,typical_angina,128,255,False,1,161,Yes,0.0,downsloping,1,normal,No_disease
+59,Male,typical_angina,110,239,False,0,142,Yes,1.2,flat,1,normal,No_disease
+60,Female,typical_angina,150,258,False,0,157,No,2.6,flat,2,normal,No_disease
+49,Male,non-anginal pain,120,188,False,1,139,No,2.0,flat,3,normal,No_disease
+59,Male,typical_angina,140,177,False,1,162,Yes,0.0,downsloping,1,normal,No_disease
+57,Male,non-anginal pain,128,229,False,0,150,No,0.4,flat,1,normal,No_disease
+61,Male,typical_angina,120,260,False,1,140,Yes,3.6,flat,1,normal,No_disease
+39,Male,typical_angina,118,219,False,1,140,No,1.2,flat,0,normal,No_disease
+61,Female,typical_angina,145,307,False,0,146,Yes,1.0,flat,0,normal,No_disease
+56,Male,typical_angina,125,249,True,0,144,Yes,1.2,flat,1,reversable_defect,No_disease
+43,Female,typical_angina,132,341,True,0,136,Yes,3.0,flat,0,normal,No_disease
+62,Female,non-anginal pain,130,263,False,1,97,No,1.2,flat,1,normal,No_disease
+63,Male,typical_angina,130,330,True,0,132,Yes,1.8,downsloping,3,normal,No_disease
+65,Male,typical_angina,135,254,False,0,127,No,2.8,flat,1,normal,No_disease
+48,Male,typical_angina,130,256,True,0,150,Yes,0.0,downsloping,2,normal,No_disease
+63,Female,typical_angina,150,407,False,0,154,No,4.0,flat,3,normal,No_disease
+55,Male,typical_angina,140,217,False,1,111,Yes,5.6,upsloping,0,normal,No_disease
+65,Male,asymtomatic,138,282,True,0,174,No,1.4,flat,1,reversable_defect,No_disease
+56,Female,typical_angina,200,288,True,0,133,Yes,4.0,upsloping,2,normal,No_disease
+54,Male,typical_angina,110,239,False,1,126,Yes,2.8,flat,1,normal,No_disease
+70,Male,typical_angina,145,174,False,1,125,Yes,2.6,upsloping,0,normal,No_disease
+62,Male,atypical_angina,120,281,False,0,103,No,1.4,flat,1,normal,No_disease
+35,Male,typical_angina,120,198,False,1,130,Yes,1.6,flat,0,normal,No_disease
+59,Male,asymtomatic,170,288,False,0,159,No,0.2,flat,0,normal,No_disease
+64,Male,non-anginal pain,125,309,False,1,131,Yes,1.8,flat,0,normal,No_disease
+47,Male,non-anginal pain,108,243,False,1,152,No,0.0,downsloping,0,reversable_defect,No_disease
+57,Male,typical_angina,165,289,True,0,124,No,1.0,flat,3,normal,No_disease
+55,Male,typical_angina,160,289,False,0,145,Yes,0.8,flat,1,normal,No_disease
+64,Male,typical_angina,120,246,False,0,96,Yes,2.2,upsloping,1,reversable_defect,No_disease
+70,Male,typical_angina,130,322,False,0,109,No,2.4,flat,3,reversable_defect,No_disease
+51,Male,typical_angina,140,299,False,1,173,Yes,1.6,downsloping,0,normal,No_disease
+58,Male,typical_angina,125,300,False,0,171,No,0.0,downsloping,2,normal,No_disease
+60,Male,typical_angina,140,293,False,0,170,No,1.2,flat,2,normal,No_disease
+77,Male,typical_angina,125,304,False,0,162,Yes,0.0,downsloping,3,reversable_defect,No_disease
+35,Male,typical_angina,126,282,False,0,156,Yes,0.0,downsloping,0,normal,No_disease
+70,Male,non-anginal pain,160,269,False,1,112,Yes,2.9,flat,1,normal,No_disease
+59,Female,typical_angina,174,249,False,1,143,Yes,0.0,flat,0,reversable_defect,No_disease
+64,Male,typical_angina,145,212,False,0,132,No,2.0,flat,2,fixed_defect,No_disease
+57,Male,typical_angina,152,274,False,1,88,Yes,1.2,flat,1,normal,No_disease
+56,Male,typical_angina,132,184,False,0,105,Yes,2.1,flat,1,fixed_defect,No_disease
+48,Male,typical_angina,124,274,False,0,166,No,0.5,flat,0,normal,No_disease
+56,Female,typical_angina,134,409,False,0,150,Yes,1.9,flat,2,normal,No_disease
+66,Male,atypical_angina,160,246,False,1,120,Yes,0.0,flat,3,fixed_defect,No_disease
+54,Male,atypical_angina,192,283,False,0,195,No,0.0,downsloping,1,normal,No_disease
+69,Male,non-anginal pain,140,254,False,0,146,No,2.0,flat,3,normal,No_disease
+51,Male,typical_angina,140,298,False,1,122,Yes,4.2,flat,3,normal,No_disease
+62,Female,typical_angina,138,294,True,1,106,No,1.9,flat,3,reversable_defect,No_disease
+67,Male,typical_angina,100,299,False,0,125,Yes,0.9,flat,2,reversable_defect,No_disease
+59,Male,asymtomatic,160,273,False,0,125,No,0.0,downsloping,0,reversable_defect,No_disease
+45,Male,typical_angina,142,309,False,0,147,Yes,0.0,flat,3,normal,No_disease
+58,Male,typical_angina,128,259,False,0,130,Yes,3.0,flat,2,normal,No_disease
+50,Male,typical_angina,144,200,False,0,126,Yes,0.9,flat,0,normal,No_disease
+62,Female,typical_angina,150,244,False,1,154,Yes,1.4,flat,0,reversable_defect,No_disease
+38,Male,asymtomatic,120,231,False,1,182,Yes,3.8,flat,0,normal,No_disease
+66,Female,typical_angina,178,228,True,1,165,Yes,1.0,flat,2,normal,No_disease
+52,Male,typical_angina,112,230,False,1,160,No,0.0,downsloping,1,reversable_defect,No_disease
+53,Male,typical_angina,123,282,False,1,95,Yes,2.0,flat,2,normal,No_disease
+63,Female,typical_angina,108,269,False,1,169,Yes,1.8,flat,2,reversable_defect,No_disease
+54,Male,typical_angina,110,206,False,0,108,Yes,0.0,flat,1,reversable_defect,No_disease
+66,Male,typical_angina,112,212,False,0,132,Yes,0.1,downsloping,1,reversable_defect,No_disease
+55,Female,typical_angina,180,327,False,2,117,Yes,3.4,flat,0,reversable_defect,No_disease
+49,Male,non-anginal pain,118,149,False,0,126,No,0.8,downsloping,3,reversable_defect,No_disease
+54,Male,typical_angina,122,286,False,0,116,Yes,3.2,flat,2,reversable_defect,No_disease
+56,Male,typical_angina,130,283,True,0,103,Yes,1.6,upsloping,0,normal,No_disease
+46,Male,typical_angina,120,249,False,0,144,No,0.8,downsloping,0,normal,No_disease
+61,Male,asymtomatic,134,234,False,1,145,No,2.6,flat,2,reversable_defect,No_disease
+67,Male,typical_angina,120,237,False,1,71,No,1.0,flat,0,reversable_defect,No_disease
+58,Male,typical_angina,100,234,False,1,156,No,0.1,downsloping,1,normal,No_disease
+47,Male,typical_angina,110,275,False,0,118,Yes,1.0,flat,1,reversable_defect,No_disease
+52,Male,typical_angina,125,212,False,1,168,No,1.0,downsloping,2,normal,No_disease
+58,Male,typical_angina,146,218,False,1,105,No,2.0,flat,1,normal,No_disease
+57,Male,atypical_angina,124,261,False,1,141,No,0.3,downsloping,0,normal,No_disease
+58,Female,atypical_angina,136,319,True,0,152,No,0.0,downsloping,2,reversable_defect,No_disease
+61,Male,typical_angina,138,166,False,0,125,Yes,3.6,flat,1,reversable_defect,No_disease
+42,Male,typical_angina,136,315,False,1,125,Yes,1.8,flat,0,fixed_defect,No_disease
+59,Male,non-anginal pain,126,218,True,1,134,No,2.2,flat,1,fixed_defect,No_disease
+40,Male,typical_angina,152,223,False,1,181,No,0.0,downsloping,0,normal,No_disease
+61,Male,typical_angina,140,207,False,0,138,Yes,1.9,downsloping,1,normal,No_disease
+46,Male,typical_angina,140,311,False,1,120,Yes,1.8,flat,2,normal,No_disease
+59,Male,asymtomatic,134,204,False,1,162,No,0.8,downsloping,2,reversable_defect,No_disease
+57,Male,atypical_angina,154,232,False,0,164,No,0.0,downsloping,1,reversable_defect,No_disease
+57,Male,typical_angina,110,335,False,1,143,Yes,3.0,flat,1,normal,No_disease
+55,Female,typical_angina,128,205,False,2,130,Yes,2.0,flat,1,normal,No_disease
+61,Male,typical_angina,148,203,False,1,161,No,0.0,downsloping,1,normal,No_disease
+58,Male,typical_angina,114,318,False,2,140,No,4.4,upsloping,3,fixed_defect,No_disease
+58,Female,typical_angina,170,225,True,0,146,Yes,2.8,flat,2,fixed_defect,No_disease
+67,Male,non-anginal pain,152,212,False,0,150,No,0.8,flat,0,normal,No_disease
+44,Male,typical_angina,120,169,False,1,144,Yes,2.8,upsloping,0,fixed_defect,No_disease
+63,Male,typical_angina,140,187,False,0,144,Yes,4.0,downsloping,2,normal,No_disease
+63,Female,typical_angina,124,197,False,1,136,Yes,0.0,flat,0,reversable_defect,No_disease
+59,Male,typical_angina,164,176,True,0,90,No,1.0,flat,2,fixed_defect,No_disease
+57,Female,typical_angina,140,241,False,1,123,Yes,0.2,flat,0,normal,No_disease
+45,Male,asymtomatic,110,264,False,1,132,No,1.2,flat,0,normal,No_disease
+68,Male,typical_angina,144,193,True,1,141,No,3.4,flat,2,normal,No_disease
+57,Male,typical_angina,130,131,False,1,115,Yes,1.2,flat,1,normal,No_disease
+57,Female,atypical_angina,130,236,False,0,174,No,0.0,flat,1,reversable_defect,No_disease
