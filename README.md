@@ -55,7 +55,7 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Di
 
 
 
-<h1 align="center">⛹️‍♂️ Contributor</h1>⛹️‍♂️
+<h1 align="center">⛹️‍♂️ Contributor ⛹️‍</h1>
 
 [Manish Tiwari](https://www.linkedin.com/in/manishtiwarii/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABceCrUBpfXSsxc2CoF8CYpdZjrLW3oL_pM)
 
