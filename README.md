@@ -48,7 +48,7 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Di
 
 🛠[Find All the File]
 
-🎞 [Video Explanation]
+🎞 [Video Explanation](https://youtu.be/k0U0jlu0C5o)
 
 🎈 [Linkedin Post]
 
