@@ -18,6 +18,8 @@ features and come out with significant contributors to a heart disease.
 
 
 
+![alt-text](https://github.com/subha996/Heart-Data-Analysis/blob/main/dashboard.gif)
+
 
 
 
