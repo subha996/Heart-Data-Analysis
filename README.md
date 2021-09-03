@@ -20,7 +20,7 @@ features and come out with significant contributors to a heart disease.
 
 ![alt-text](https://github.com/subha996/Heart-Data-Analysis/blob/main/dashboard.gif)
 
-[📊📉�📈Dashboard Link📊📉�📈](https://public.tableau.com/app/profile/subhabrata.nath/viz/HeartDiseaseV2/Dashboard1?publish=yes)
+# [📊📉�📈Dashboard Link📊📉�📈](https://public.tableau.com/app/profile/subhabrata.nath/viz/HeartDiseaseV2/Dashboard1?publish=yes)
 
 
 <h1 align="center">⏳ Dataset</h1>
