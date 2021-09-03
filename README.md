@@ -36,17 +36,16 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Di
 
 <h1 align="center">📜 Documents</h1>
 
-📜 [High Level Design]()
+📜 [High Level Design](https://drive.google.com/file/d/1PGJ21vVWQOWBLXpVI8gklYEhUMd_Q_5p/view?usp=sharing)
 
-📜 [Low Level Design]()
+📜 [Low Level Design](https://drive.google.com/file/d/1h5MpDASkRB6BHsybHS6B1R0zwhZ87wt4/view?usp=sharing)
 
-📜[Architecture Design]()
+📜[Architecture Design](https://drive.google.com/file/d/1q7ywxQfOkFh0t-z65VouTlRetcNeM3aS/view?usp=sharing)
 
-📜[Wireframe Design]()
+📜[Wireframe Design](https://drive.google.com/file/d/1QuVVbOpNfhjgcKEs6QNlGyuIbBX5aaLr/view?usp=sharing)
 
-📜[Detailed Project Report]
+📜[Detailed Project Report](https://drive.google.com/file/d/1Ksqnz4j-a7tPlpZTgdwvXumsYkrTc_j1/view?usp=sharing)
 
-🛠[Find All the File]
 
 🎞 [Video Explanation](https://youtu.be/k0U0jlu0C5o)
 
