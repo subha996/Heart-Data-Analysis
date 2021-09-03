@@ -50,7 +50,7 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Di
 
 🎞 [Video Explanation](https://youtu.be/k0U0jlu0C5o)
 
-🎈 [Linkedin Post]
+🎈 [Linkedin Post](https://www.linkedin.com/posts/manishtiwarii_datafam-dataviz-activity-6839462622325211136-NqnW/)
 
 
 
