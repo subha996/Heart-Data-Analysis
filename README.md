@@ -27,6 +27,33 @@ features and come out with significant contributors to a heart disease.
 The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
 <h1 align="center">🖥️ Installation</h1>
-    ``` Python
-    Tableau```
+* Python
+* Tableau
 
+
+<h1 align="center">📜 Documents</h1>
+
+📜 [High Level Design]()
+
+📜 [Low Level Design]()
+
+📜[Architecture Design]()
+
+📜[Wireframe Design]()
+
+📜[Detailed Project Report]
+
+🛠[Find All the File]
+
+🎞 [Video Explanation]
+
+🎈 [Linkedin Post]
+
+
+
+
+<h1 align="center">⛹️‍♂️ Contributor</h1>
+
+[Manish Tiwari](https://www.linkedin.com/in/manishtiwarii/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABceCrUBpfXSsxc2CoF8CYpdZjrLW3oL_pM)
+[Samruddhi Deshmukh](https://www.linkedin.com/in/samruddhi-deshmukh-aa4a28136/)
+[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/)
